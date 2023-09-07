@@ -32,3 +32,25 @@ header
     color: white;
     background-color: grey;
 }
+
+.mainbody{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.mainbody h1{
+    font-size: 45px;
+    text-align: center;
+    
+}
+
+.mainbody img{
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.mainbody p{
+    text-align: center;
+}

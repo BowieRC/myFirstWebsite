@@ -61,7 +61,7 @@ header
     line-height: 25px;
 }
 
-.contact{
+.contact-form{
     margin: 10px auto;
     margin-bottom: 0;
     padding: 15px;
@@ -69,12 +69,12 @@ header
     background-color: grey;
 }
 
-.contact label{
+.contact-form label{
     display: inline-block;
     padding: 5px 0;
 }
 
-.contact form{
+.contact-form form{
     border: 5px solid black;
     border-radius: 25px;
     width: 300px;

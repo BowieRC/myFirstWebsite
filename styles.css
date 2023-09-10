@@ -82,6 +82,20 @@ header
     padding: 10px;
     background-color: white;
 }
+#submit-btn{
+    font-size: 15px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: #f10eb9;
+    color: white;
+    padding: 5px 8px;
+}
+
+#submit-btn:hover{
+    background-color: purple;
+    box-shadow: 1px 1px 5px black;
+}
 
 footer{
     width: 100%;

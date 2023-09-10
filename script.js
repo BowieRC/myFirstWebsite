@@ -1,6 +1,5 @@
-label_name = document.getElementById('name');
-contact = document.getElementById('contact');
+portfolio_link = document.getElementById("portfolio");
 
-contact.addEventListener('click', () => {
-    label_name.focus();
+portfolio_link.addEventListener("click", () =>{
+    alert("Portfolio coming soon");
 })
